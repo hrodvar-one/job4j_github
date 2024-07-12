@@ -3,6 +3,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### Checkstyle ###
+configuration_1_3.dtd
+
 ### IntelliJ IDEA ###
 .idea
 .idea/modules.xml
