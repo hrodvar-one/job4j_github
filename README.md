@@ -15,3 +15,5 @@
 внесли изменения в README.md в ветке master
 
 внесли изменения в README.md в ветке hotfix
+
+внесли изменения в README.md в ветке task_126026
